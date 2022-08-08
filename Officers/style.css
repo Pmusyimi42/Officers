@@ -1,0 +1,16 @@
+body{
+    background-color: #33a756;
+    width: 700px;
+    margin: auto;
+    padding: 30px;
+    font-family: Helvetica Neue;
+}
+#mainHeader{
+    font-size: 22px;
+    margin: auto;
+    font-style: italic;
+
+}
+table{
+    background-color: cyan;
+}
